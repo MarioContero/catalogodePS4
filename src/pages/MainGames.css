@@ -1,0 +1,7 @@
+  .cover-image img {
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+    padding: auto;
+    object-fit: cover;
+  }
